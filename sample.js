@@ -1,4 +1,4 @@
 const sample = () => {
-  const x = 22;
-  console.log(x);
-};
+  const x = 30;
+  console.log(x - 2);
+}
